@@ -1,0 +1,5 @@
+firstname,lastname,username,email,department,telephone,jobtitle,company,ou,password
+Freek,Janssen,f.janssen,f.janssen@knutselclub.local,IT,061234578,Manager,YS,"OU=TestUsers,DC=knutselclub,DC=local",Welkom01
+Herman,Brood,h.brood,h.brood@knutselclub.local,IT,0611223344,Manager,YS,"OU=TestUsers,DC=knutselclub,DC=local",Welkom02
+Piet,Janssen,p.janssen,p.janssen@knutselclub.local,Administratie,0687654321,Medewerker,YS,"OU=TestUsers,DC=knutselclub,DC=local",Welkom03
+Henk,Pietersen,h.pietersen,h.pietersen@knutselclub.local,Administratie,0687654321,Medewerker,YS,"OU=TestUsers,DC=knutselclub,DC=local",Welkom04
