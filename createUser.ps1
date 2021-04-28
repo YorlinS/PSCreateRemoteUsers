@@ -23,7 +23,7 @@ foreach ($User in $ADUsers)
    
 #Run the code below on the remote PSSession machine
 Invoke-Command -Session $dc -ScriptBlock {
-    #Import the activ directory module for PowerShell
+    #Import the activedirectory module for PowerShell
     Import-Module activedirectory
 
     #Check if user already exists else create user
